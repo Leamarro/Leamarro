@@ -15,9 +15,13 @@ Me encanta crear cosas nuevas de forma creativa, tambien me interesa aprender nu
 Queres contactarme o conocerme más? Te dejo mis redes de contacto más abajo.
 
 ## My Skills: 
-<li>
- <img= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FReact&psig=AOvVaw0nKRnTtRt65wGmvwyD5h6n&ust=1634249279872000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPj_h7KzyPMCFQAAAAAdAAAAABAD" />
- </li>
+<li> React</li>
+<li> Redux </li>
+ <li> JavaScript </li>
+ <li> Node.js</li>
+ <li> Express </li>
+ <li> SQL </li>
+ 
 
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
