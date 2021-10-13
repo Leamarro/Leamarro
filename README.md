@@ -1,24 +1,23 @@
 # Hi there, I´m Leandro ! 👋
 ## About me 👀
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+English
+Welcome to my GitHub!
+I'm Full-Stack Web Developer passionate about Front-End development!
+I love creating new things in a creative way, I am also interested in learning new languages, traveling and gaining new experiences.
+Do you want to contact me or get to know me better? I leave my contact networks below.
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+Español
+Bienvenido a mi GitHub!
+Soy Full-Stack Web Developer con una gran pasión por el desarrollo Front-End!
+Me encanta crear cosas nuevas de forma creativa, tambien me interesa aprender nuevos idiomas, viajar y ganar nuevas experiencias.
+Queres contactarme o conocerme más? Te dejo mis redes de contacto más abajo.
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
-
-## Features
-
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+## My Skills: 
+<div>
+ <li><a href="./img/redux.png"><img='./img/node.png'/></a>
+</div>
 
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
