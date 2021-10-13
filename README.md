@@ -16,7 +16,7 @@ Queres contactarme o conocerme más? Te dejo mis redes de contacto más abajo.
 
 ## My Skills: 
 <li>
- <img= "![image](https://user-images.githubusercontent.com/79809924/137219367-ac36ee48-dbd2-4eb7-bc0f-ac1ba1571d41.png)" />
+ <img= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FReact&psig=AOvVaw0nKRnTtRt65wGmvwyD5h6n&ust=1634249279872000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPj_h7KzyPMCFQAAAAAdAAAAABAD" />
  </li>
 
 Markdown is a lightweight markup language based on the formatting conventions
