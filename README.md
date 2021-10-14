@@ -27,6 +27,7 @@ Queres contactarme o conocerme más? Te dejo mis redes de contacto más abajo.
  
 ## 📫 Contact:
 <strong>Email</strong> : <a href="mailto:leaa.marrocchi@gmail.com?" target="_blank"> leaa.marrocchi@gmail.com </a>
+</br>
 <strong>Linkedin</strong>:  <a href="https://www.linkedin.com/in/leandro-marrocchi-18b0471a0/" target="_blank">Leandro Marrocchi  </a>
 
         
