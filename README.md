@@ -14,12 +14,19 @@ Soy Full-Stack Web Developer con una gran pasión por el desarrollo Front-End!
 Me encanta crear cosas nuevas de forma creativa, tambien me interesa aprender nuevos idiomas, viajar y ganar nuevas experiencias.
 Queres contactarme o conocerme más? Te dejo mis redes de contacto más abajo.
 
-## My Skills: 
-<li> React</li>
-<li> Redux </li>
+##  ✨ My Tech Skills:: 
+ <li> React</li>
+ <li> Redux </li>
  <li> JavaScript </li>
  <li> Node.js</li>
  <li> Express </li>
- <li> SQL </li>
+ <li> PostgreSQL </li>
+ <li> HTML5 </li>
+ <li> CSS3 </li>
+ <li> Sequelize </li>
  
+## 📫 Contact:
+<strong>Email</strong> : <a href="mailto:leaa.marrocchi@gmail.com?" target="_blank"> leaa.marrocchi@gmail.com </a>
+<strong>Linkedin</strong>:  <a href="https://www.linkedin.com/in/leandro-marrocchi-18b0471a0/" target="_blank">Leandro Marrocchi  </a>
 
+        
